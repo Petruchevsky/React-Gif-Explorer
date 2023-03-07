@@ -1,0 +1,13 @@
+.gifsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+  justify-content: center;
+
+}
+
+.gifGrid h3 {
+  text-transform: uppercase;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 20px;
+}
